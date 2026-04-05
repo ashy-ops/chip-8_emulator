@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/chip8_emulator.dir/src/main.cpp.o CMakeFiles/chip8_emulator.dir/src/chip8.cpp.o -o chip8_emulator  /usr/lib/x86_64-linux-gnu/libSDL2.so -lm -lpthread 
